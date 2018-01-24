@@ -20,3 +20,4 @@ This Bash script was written by James Russell.
 
 Usage: ./robotsRoundUp.sh
 
+You can read more about it here: http://www.james-a-russell.com/blog/robotsroundup-sh-the-cyber-cowboys-lasso-for-wrangling-in-dem-dogies/
